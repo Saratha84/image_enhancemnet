@@ -3,7 +3,7 @@ Image Enhancement in Remote Sensing using Python
 
 🛰️ Dive into the world of image enhancement using Python libraries like GeoTile, NumPy, and Matplotlib. Learn how to preprocess and enhance satellite imagery for improved analysis and visualization. Discover techniques to rescale intensity and enhance image quality.
 
-![alt text](https://github.com/Saratha84/image_enhancemnet/blob/main/output_image.png)?raw=true)
+![alt text](https://github.com/Saratha84/image_enhancemnet/blob/main/output_image.png?raw=true)
 
 
 Enhancement of remote sensing imagery is crucial for several reasons:
